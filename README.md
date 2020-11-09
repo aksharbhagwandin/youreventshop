@@ -1,3 +1,3 @@
-Your Event Shop
+A React Ecommerce Shop
 
-Where you can get all the party goodies
+Template can be used for any type of shop
