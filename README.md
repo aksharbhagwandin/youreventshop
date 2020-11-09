@@ -1,3 +1,3 @@
-This App is for a Online Event party needs Shop
+Your Event Shop
 
 Where you can get all the party goodies
