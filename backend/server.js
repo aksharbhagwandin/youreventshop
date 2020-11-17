@@ -4,7 +4,7 @@ const products = require('./data/products')
 const app = express()
 
 app.get('/',(req,res) =>{
-    res.send('API is running......')
+    res.send('API is running.')
 })
 
 // Endpoint to return all the products --> Setting up some routes
