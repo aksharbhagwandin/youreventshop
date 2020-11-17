@@ -14,7 +14,7 @@ const ProductScreen = ({match}) => {
             setProduct(data)
         }
         fetchProduct()
-    },[])
+    },[match])
 
     return (
         // This is a link back button
