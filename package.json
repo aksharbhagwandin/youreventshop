@@ -44,9 +44,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    ]
   },
   "devDependencies": {
     "concurrently": "^5.3.0",
