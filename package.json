@@ -1,5 +1,7 @@
 {
   "name": "youreventshop",
+  "proxy": "http://127.0.0.1:5000",
+  "secure": false,
   "version": "1.0.0",
   "description": "MERN Ecommerce shopping app",
   "main": "server.js",
